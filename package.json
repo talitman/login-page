@@ -1,0 +1,19 @@
+{
+  "name": "login-page",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/talitman/login-page.git"
+  },
+  "author": "Dotan Talitman <talitmandotan@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/talitman/login-page/issues"
+  },
+  "homepage": "https://github.com/talitman/login-page#readme"
+}
